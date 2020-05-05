@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@500&display=swap');
+
+
+.cardFlex{
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cardTitle{
+    margin-top: 10px;
+    font-size: 1.5em;
+    font-family: 'Baloo Tamma 2', cursive;
+    color: black;
+}
+
+.chartCard{
+    margin-top: 5px;
+    height: 400px;
+    width: 600px;
+    background: #666666;
+}
